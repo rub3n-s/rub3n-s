@@ -44,16 +44,3 @@
 <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
 </p>
 
-
-## Stats 📊
-<br>
-<p align="center">
-<img src ="https://github-readme-stats-ku8w8gcfr-pedrogrcorreia.vercel.app/api/top-langs/?username=pedrogrcorreia&theme=dracula&langs_count=10&layout=compact" height=200>
-<img src ="https://github-readme-stats-ku8w8gcfr-pedrogrcorreia.vercel.app/api?username=pedrogrcorreia&show_icons=true&theme=dracula&count_private=true" height=200>
-</p>
-
-
-<!---
-pedrogrcorreia/pedrogrcorreia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
