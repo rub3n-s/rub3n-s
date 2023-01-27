@@ -2,7 +2,7 @@
 
 ## Software Engineer Student @ ISEC - Portugal, Coimbra 🎓
 
-## Languages and Tools 🔧
+## Academic Knowledge
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
