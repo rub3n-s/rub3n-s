@@ -1,6 +1,6 @@
 # Hi there, i'm Rúben Santos 💻
 
-## Software Engineer Student @ [ISEC](https://img.shields.io/badge/-ISEC-red) - Portugal, Coimbra 🎓
+## Software Engineer Student <img href="https://www.isec.pt" src="https://img.shields.io/badge/-ISEC-red"> - Portugal, Coimbra 🎓
 
 ## Academic Knowledge
 <br>
