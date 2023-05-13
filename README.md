@@ -1,3 +1,5 @@
+![Profile Views](https://gpvc.arturio.dev/rub3n-s)
+
 # Hi there, i'm Rúben Santos 💻
 
 ## Software Engineer Student <img href="https://www.isec.pt" src="https://img.shields.io/badge/-ISEC-red"> - Portugal, Coimbra 🎓
